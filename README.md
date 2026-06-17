@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Salvatore</h1>
-<h3 align="center">A passionate Software Engineer from Italy</h3>
+<h3 align="center">Software Engineer from Italy</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **NoSQL VectorDBs**
 
 - 📫 How to reach me **salvatore.chiacchio0@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
